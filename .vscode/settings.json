@@ -1,3 +1,4 @@
 {
-    "bitoAI.codeCompletion.enableAutoCompletion": false
+    "bitoAI.codeCompletion.enableAutoCompletion": false,
+    "genieai.openai.maxTokens": 4096
 }
